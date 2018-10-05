@@ -1,3 +1,3 @@
 ﻿Public Class Form1
-"Ik denk da het nu wel werkt e? haha
+  "goed e??? :D"
 End Class
